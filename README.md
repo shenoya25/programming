@@ -2,7 +2,7 @@
 ![Octocat](https://github.com/shenoya25/programming/blob/955291cb711b01418d44066b1191dd1770db0443/resizecat.png)
 - this is for programming class
 - i am coder
--💀 i'm currently a student
+- 💀 i'm currently a student
   ### Code.org Game Lab
   [Robot Face](https://studio.code.org/projects/gamelab/pIRn2gwMbQ5SnvY6pRiI9CgE409Yy8ngF5VN0R-e0l0)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face. This link does not work.
