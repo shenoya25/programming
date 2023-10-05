@@ -6,7 +6,7 @@
 - 📫 don't try contacting me
 - 🍗 i like rotisserie chicken
   ### Code.org Game Lab
-[Robot Face](https://studio.code.org/projects/gamelab/pIRn2gwMbQ5SnvY6pRiI9CgE409Yy8ngF5VN0R-e0l0)
+[Robot Face](https://github.com/shenoya25/robot.git)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
 [Caption Scenes](https://studio.code.org/projects/gamelab/tuBf_RbpUXFZpPUQNY653U9YvZx2e89RHuztub0ppp8)
