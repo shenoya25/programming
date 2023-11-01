@@ -14,3 +14,6 @@
 
 [Interactive Card Project](https://studio.code.org/projects/gamelab/foR4o3apuPeETqyQcnijzHm8nW_omVsHS9i8SCDP6Ls)
 > In this project, I collaborated with Joey and made a game that raced two individuals. it incorporated if/else loops and sprite variables.
+
+[Side Scroller Game](https://studio.code.org/projects/gamelab/VM5iybjq1HJj1HIAT04NfiJMgPlcL5njvNTf9WoE7_E)
+> In this project, me and Joey made a game that incorporated variables, loops, velocity, and other different things.
