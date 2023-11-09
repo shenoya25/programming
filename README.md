@@ -18,5 +18,5 @@
 [Side Scroller Game](https://studio.code.org/projects/gamelab/VM5iybjq1HJj1HIAT04NfiJMgPlcL5njvNTf9WoE7_E)
 > In this project, me and Joey made a game that incorporated variables, loops, velocity, and other different things.
 
-{Flyer game}(https://studio.code.org/projects/gamelab/uIDB9X_Rkd6miHdJA0QeGWgQPWQNJaWIJmySya9JngY)
+[Flyer game](https://studio.code.org/projects/gamelab/uIDB9X_Rkd6miHdJA0QeGWgQPWQNJaWIJmySya9JngY)
 > In this game, I used bouce mechanics and conditionals to create an authentic flyer game
