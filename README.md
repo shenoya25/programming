@@ -21,5 +21,5 @@
 [Flyer game](https://studio.code.org/projects/gamelab/uIDB9X_Rkd6miHdJA0QeGWgQPWQNJaWIJmySya9JngY)
 > In this game, I used bouce mechanics and conditionals to create an authentic flyer game
 
-[Final Game Project}(https://studio.code.org/projects/gamelab/VyJ1_1h84n7vXCy5quLo-rbwMgsH7TDjYBd5nm3SCOU)
+[Final Game Project](https://studio.code.org/projects/gamelab/VyJ1_1h84n7vXCy5quLo-rbwMgsH7TDjYBd5nm3SCOU)
 > In this game, I used functions and other code to create my very own version of chrome's dinosaur game
