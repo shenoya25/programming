@@ -7,16 +7,19 @@
 - 🍗 i like rotisserie chicken
   ### Code.org Game Lab
 [Robot Face](https://github.com/shenoya25/robot.git)
-> In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
+> In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face
 
 [Caption Scenes](https://studio.code.org/projects/gamelab/tuBf_RbpUXFZpPUQNY653U9YvZx2e89RHuztub0ppp8)
-> In this project I made a very nice scene, which incorporated friends and not-friends.
+> In this project I made a very nice scene, which incorporated friends and not-friends
 
 [Interactive Card Project](https://studio.code.org/projects/gamelab/foR4o3apuPeETqyQcnijzHm8nW_omVsHS9i8SCDP6Ls)
-> In this project, I collaborated with Joey and made a game that raced two individuals. it incorporated if/else loops and sprite variables.
+> In this project, I collaborated with Joey and made a game that raced two individuals. it incorporated if/else loops and sprite variables
 
 [Side Scroller Game](https://studio.code.org/projects/gamelab/VM5iybjq1HJj1HIAT04NfiJMgPlcL5njvNTf9WoE7_E)
-> In this project, me and Joey made a game that incorporated variables, loops, velocity, and other different things.
+> In this project, me and Joey made a game that incorporated variables, loops, velocity, and other different things
 
 [Flyer game](https://studio.code.org/projects/gamelab/uIDB9X_Rkd6miHdJA0QeGWgQPWQNJaWIJmySya9JngY)
 > In this game, I used bouce mechanics and conditionals to create an authentic flyer game
+
+[Final Game Project}(https://studio.code.org/projects/gamelab/VyJ1_1h84n7vXCy5quLo-rbwMgsH7TDjYBd5nm3SCOU)
+> In this game, I used functions and other code to create my very own version of chrome's dinosaur game
