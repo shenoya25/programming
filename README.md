@@ -23,3 +23,6 @@
 
 [Final Game Project](https://studio.code.org/projects/gamelab/VyJ1_1h84n7vXCy5quLo-rbwMgsH7TDjYBd5nm3SCOU)
 > In this game, I used functions and other code to create my very own version of chrome's dinosaur game
+
+[Musical Soundboard](https://gallery.appinventor.mit.edu/?galleryid=c5890382-b636-45b2-93e8-391ab2914ead)
+> In this project, i created a soundboard that had music play and recording features available.
