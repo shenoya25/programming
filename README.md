@@ -21,8 +21,17 @@
 [Flyer game](https://studio.code.org/projects/gamelab/uIDB9X_Rkd6miHdJA0QeGWgQPWQNJaWIJmySya9JngY)
 > In this game, I used bouce mechanics and conditionals to create an authentic flyer game
 
+[Platform game](https://studio.code.org/projects/gamelab/4r0qEtezVsEDiVVwKPXdMmDwnXJJmiXQRs4ujoK7cxA)
+> In this game, I used complex game mechanics to make a game kind of similar to Doodle Jump
+
 [Final Game Project](https://studio.code.org/projects/gamelab/VyJ1_1h84n7vXCy5quLo-rbwMgsH7TDjYBd5nm3SCOU)
 > In this game, I used functions and other code to create my very own version of chrome's dinosaur game
+
+[Hello it's Me](https://gallery.appinventor.mit.edu/?galleryid=0c8e7e2f-5fb9-4e63-a1ea-42b7e270f18d)
+> In this project, I used a basic understanding of the website to make multiple buttons work.
+
+[Piano](https://gallery.appinventor.mit.edu/?galleryid=8a9e5837-f531-4549-80be-8a436a74bec7)
+> In this porject, i created a piano keyboard that functions
 
 [Musical Soundboard](https://gallery.appinventor.mit.edu/?galleryid=c5890382-b636-45b2-93e8-391ab2914ead)
 > In this project, i created a soundboard that had music play and recording features available.
