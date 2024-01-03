@@ -35,3 +35,6 @@
 
 [Musical Soundboard](https://gallery.appinventor.mit.edu/?galleryid=c5890382-b636-45b2-93e8-391ab2914ead)
 > In this project, i created a soundboard that had music play and recording features available.
+
+[Food Chase Game](https://gallery.appinventor.mit.edu/?galleryid=ad5fba31-3510-4095-a934-254519aae0cb)
+> In this game, I created a game about DJ Khaled where there are sound effects and different storage factors used.
