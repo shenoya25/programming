@@ -31,7 +31,7 @@
 > In this project, I used a basic understanding of the website to make multiple buttons work.
 
 [Piano](https://gallery.appinventor.mit.edu/?galleryid=8a9e5837-f531-4549-80be-8a436a74bec7)
-> In this porject, i created a piano keyboard that functions
+> In this porject, i created a piano keyboard that functions.
 
 [Musical Soundboard](https://gallery.appinventor.mit.edu/?galleryid=c5890382-b636-45b2-93e8-391ab2914ead)
 > In this project, i created a soundboard that had music play and recording features available.
@@ -40,6 +40,7 @@
 > In this game, I created a game about DJ Khaled where there are sound effects and different storage factors used.
 
 [Carnegie Mellon Creative Task 1](https://academy.cs.cmu.edu/sharing/orangeRedOctopus5445/embed)
->In this project, I used my knowledge of shapes, colors, opacity, and shape properties to create a brilliant turtle.
+> In this project, I used my knowledge of shapes, colors, opacity, and shape properties to create a brilliant turtle.
 
 [Carnegie Mellon Creative Task 2](https://academy.cs.cmu.edu/sharing/blanchedAlmondFrog7618)
+> In this project, I used advanced coding topics like imaging and mouse press to create two different scenes and added music to make it special.
