@@ -26,7 +26,7 @@
 
 [Final Game Project](https://studio.code.org/projects/gamelab/VyJ1_1h84n7vXCy5quLo-rbwMgsH7TDjYBd5nm3SCOU)
 > In this game, I used functions and other code to create my very own version of chrome's dinosaur game
-
+### MIT App Inventor
 [Hello it's Me](https://gallery.appinventor.mit.edu/?galleryid=0c8e7e2f-5fb9-4e63-a1ea-42b7e270f18d)
 > In this project, I used a basic understanding of the website to make multiple buttons work.
 
@@ -36,9 +36,13 @@
 [Musical Soundboard](https://gallery.appinventor.mit.edu/?galleryid=c5890382-b636-45b2-93e8-391ab2914ead)
 > In this project, i created a soundboard that had music play and recording features available.
 
+[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=97e94193-c2d5-410c-a592-fe7782851008)
+> In this project, Drake highlights a maze using tilt functions to move a ball.
+
 [Food Chase Game](https://gallery.appinventor.mit.edu/?galleryid=ad5fba31-3510-4095-a934-254519aae0cb)
 > In this game, I created a game about DJ Khaled where there are sound effects and different storage factors used.
 
+### Carnegie Mellon Coding
 [Carnegie Mellon Creative Task 1](https://academy.cs.cmu.edu/sharing/orangeRedOctopus5445/embed)
 > In this project, I used my knowledge of shapes, colors, opacity, and shape properties to create a brilliant turtle.
 
