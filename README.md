@@ -39,6 +39,7 @@
 [Food Chase Game](https://gallery.appinventor.mit.edu/?galleryid=ad5fba31-3510-4095-a934-254519aae0cb)
 > In this game, I created a game about DJ Khaled where there are sound effects and different storage factors used.
 
-
-[Carnegie Mellon Creative Task](https://academy.cs.cmu.edu/sharing/orangeRedOctopus5445/embed)
+[Carnegie Mellon Creative Task 1](https://academy.cs.cmu.edu/sharing/orangeRedOctopus5445/embed)
 >In this project, I used my knowledge of shapes, colors, opacity, and shape properties to create a brilliant turtle.
+
+[Carnegie Mellon Creative Task 2](https://academy.cs.cmu.edu/sharing/blanchedAlmondFrog7618)
