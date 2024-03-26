@@ -48,3 +48,7 @@
 
 [Carnegie Mellon Creative Task 2](https://academy.cs.cmu.edu/sharing/blanchedAlmondFrog7618)
 > In this project, I used advanced coding topics like imaging and mouse press to create two different scenes and added music to make it special.
+
+[Carnegie Mellon Creative Task 3](https://academy.cs.cmu.edu/sharing/aquamarineBee4626)
+> In this project, I used new mechanics and challenged myself to create a plane window that looks real.
+> In this project, I used advanced coding topics like imaging and mouse press to create two different scenes and added music to make it special.
